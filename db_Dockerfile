@@ -1,0 +1,2 @@
+FROM mysql
+COPY davinci/bin/davinci.sql /docker-entrypoint-initdb.d/
