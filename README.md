@@ -46,6 +46,6 @@
   ```shell
   docker pull registry.cn-hangzhou.aliyuncs.com/tlntin/davinci_mysql
   ```
-
+- 一键启动参考这个[跳转](https://github.com/Tlntin/davinci_davinci)
   
 
